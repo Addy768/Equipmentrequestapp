@@ -1,0 +1,47 @@
+@model IEnumerable<EquipmentRequestApp.Models.Request>
+
+<h2>Submitted Requests</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Role</th>
+            <th>Equipment</th>
+            <th>Request Details</th>
+            <th>Duration</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.Id</td>
+                <td>@request.Name</td>
+                <td>@request.Email</td>
+                <td>@request.Phone</td>
+                <td>@request.Role</td>
+                <td>@request.Equipment</td>
+                <td>@request.RequestDetails</td>
+                <td>@request.Duration</td>
+                <td>@request.Status</td>
+                <td>
+                    @if (request.Status == EquipmentRequestApp.Models.RequestStatus.Pending)
+                    {
+                        <form method="post" asp-controller="Admin" asp-action="Accept" asp-route-id="@request.Id" style="display:inline;">
+                            <button type="submit">Accept</button>
+                        </form>
+                        <form method="post" asp-controller="Admin" asp-action="Deny" asp-route-id="@request.Id" style="display:inline;">
+                            <button type="submit">Deny</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

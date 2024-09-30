@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\availableequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\availableequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\models\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\models\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\requestform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\requestform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\home\\allequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\home\\allequipment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\models\\equipmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\models\\equipmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|c:\\users\\sharm\\desktop\\books\\semester 5\\prog30000 enterprise software systems\\equipmentrequestapp\\equipmentrequestapp\\equipmentrequestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCEE3D91-0105-4DD2-9B68-817E3A3C29B6}|EquipmentRequestApp\\EquipmentRequestApp.csproj|solutionrelative:equipmentrequestapp\\equipmentrequestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EquipmentType.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\EquipmentType.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Models\\EquipmentType.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\EquipmentType.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Models\\EquipmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:47:08.323Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:44:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:46:20.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\Request.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:47:05.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Requests.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Requests.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\Requests.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Requests.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\Requests.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:05:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Program.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Program.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:13:17.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailableEquipment.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\AvailableEquipment.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\AvailableEquipment.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\AvailableEquipment.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\AvailableEquipment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:04:55.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Models\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\RequestRepository.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Models\\RequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:27:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:18:00.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:11:31.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\RequestForm.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\RequestForm.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\RequestForm.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\RequestForm.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:05:33.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:05:26.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:05:17.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\Confirmation.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:05:12.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AllEquipment.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\AllEquipment.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Home\\AllEquipment.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Home\\AllEquipment.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Home\\AllEquipment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:02:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:47:07.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Models\\Equipment.cs",
+              "RelativeToolTip": "EquipmentRequestApp\\Models\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:46:16.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T18:47:00.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:18:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EquipmentRequestApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T18:47:03.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquipmentRequestApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\EquipmentRequestApp.csproj",
+              "RelativeDocumentMoniker": "EquipmentRequestApp\\EquipmentRequestApp.csproj",
+              "ToolTip": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\EquipmentRequestApp.csproj",
+              "RelativeToolTip": "EquipmentRequestApp\\EquipmentRequestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T18:44:07.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

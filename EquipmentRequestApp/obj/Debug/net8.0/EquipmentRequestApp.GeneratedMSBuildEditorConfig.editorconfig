@@ -18,12 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\sharm\Desktop\books\Semester 5\PROG30000 Enterprise Software Systems\EquipmentRequestApp\EquipmentRequestApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/AllEquipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxFcXVpcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/AvailableEquipment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdmFpbGFibGVFcXVpcG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb25maXJtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/RequestForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXF1ZXN0Rm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Home/Requests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXF1ZXN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sharm/Desktop/books/Semester 5/PROG30000 Enterprise Software Systems/EquipmentRequestApp/EquipmentRequestApp/Views/Shared/Error.cshtml]

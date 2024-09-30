@@ -14,12 +14,15 @@
         "outputPath": "C:\\Users\\sharm\\Desktop\\books\\Semester 5\\PROG30000 Enterprise Software Systems\\EquipmentRequestApp\\EquipmentRequestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sharm\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sharm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
