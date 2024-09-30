@@ -1,3 +1,48 @@
+@model IEnumerable<EquipmentRequestApp.Models.Equipment>
+
+<style>
+    table {
+        width: 100%;
+        margin: 20px 0;
+        border-collapse: collapse;
+        background: rgba(128, 0, 128, 0.1); /* Light purple background */
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    th, td {
+        padding: 15px;
+        text-align: left;
+        color: white;
+        border-bottom: 1px solid rgba(128, 0, 128, 0.2); /* Purple border */
+    }
+
+    th {
+        background-color: rgba(75, 0, 130, 0.7); /* Dark purple background for headers */
+        font-size: 1.2rem;
+        text-transform: uppercase;
+    }
+
+    tr:hover {
+        background-color: rgba(147, 112, 219, 0.3); /* Hover effect with lighter purple */
+    }
+
+    h1 {
+        text-align: center;
+        margin-top: 2rem;
+        font-size: 2.5rem;
+        color: purple; 
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: rgba(128, 0, 128, 0.15); 
+    }
+
+    .table-striped tbody tr:nth-of-type(even) {
+        background-color: rgba(128, 0, 128, 0.05); 
+    }
+</style>
+
 <h1>Available Equipment Listing</h1>
 <table class="table table-striped">
     <thead>
