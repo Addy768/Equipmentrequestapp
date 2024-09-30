@@ -1,49 +1,111 @@
 @model EquipmentRequestApp.Models.Request
 
-<h1>Equipment Request Form</h1>
+<h1 class="text-center text-light mt-4">Equipment Request Form</h1>
 
-<form asp-action="RequestForm" method="post">
+<form asp-action="RequestForm" method="post" class="bg-light p-4 rounded">
     <div class="form-group">
-        <label asp-for="Name"></label>
+        <label asp-for="Name" class="font-weight-bold">Name</label>
         <input asp-for="Name" class="form-control" />
         <span asp-validation-for="Name" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="Email"></label>
+        <label asp-for="Email" class="font-weight-bold">Email</label>
         <input asp-for="Email" class="form-control" />
         <span asp-validation-for="Email" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="Phone"></label>
+        <label asp-for="Phone" class="font-weight-bold">Phone</label>
         <input asp-for="Phone" class="form-control" />
         <span asp-validation-for="Phone" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="Role"></label>
+        <label asp-for="Role" class="font-weight-bold">Role</label>
         <select asp-for="Role" class="form-control">
             <option value="Student">Student</option>
             <option value="Professor">Professor</option>
         </select>
         <span asp-validation-for="Role" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="Equipment"></label>
+        <label asp-for="Equipment" class="font-weight-bold">Equipment</label>
         <select asp-for="Equipment" asp-items="Html.GetEnumSelectList<EquipmentRequestApp.Models.EquipmentType>()" class="form-control"></select>
         <span asp-validation-for="Equipment" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="RequestDetails"></label>
-        <textarea asp-for="RequestDetails" class="form-control"></textarea>
+        <label asp-for="RequestDetails" class="font-weight-bold">Request Details</label>
+        <textarea asp-for="RequestDetails" class="form-control" rows="4"></textarea>
         <span asp-validation-for="RequestDetails" class="text-danger"></span>
     </div>
+
     <div class="form-group">
-        <label asp-for="Duration"></label>
+        <label asp-for="Duration" class="font-weight-bold">Duration (Days)</label>
         <input asp-for="Duration" type="number" class="form-control" />
         <span asp-validation-for="Duration" class="text-danger"></span>
     </div>
-    <button type="submit" class="btn btn-primary">Submit Request</button>
+
+    <button type="submit" class="btn btn-primary btn-block">Submit Request</button>
 </form>
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
 }
+
+<style>
+    /* Purple gradient background */
+    body {
+        background: linear-gradient(135deg, #6a1b9a, #8e24aa, #9c27b0);
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    /* Light color for text */
+    .text-light {
+        color: #f1f1f1;
+    }
+
+    /* Styling the form with padding and rounded corners */
+    form {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 600px;
+        margin: 20px auto;
+    }
+
+    /* Centered Title */
+    .text-center {
+        text-align: center;
+    }
+
+    /* Enhancing Input Fields */
+    .form-control {
+        border-radius: 6px;
+        padding: 12px;
+        margin-bottom: 15px;
+    }
+
+    /* Submit Button Full-width */
+    .btn-block {
+        width: 100%;
+        padding: 10px;
+    }
+
+    /* Bold labels for a clearer UI */
+    .font-weight-bold {
+        font-weight: bold;
+    }
+
+    /* Form padding */
+    .p-4 {
+        padding: 1.5rem;
+    }
+</style>
