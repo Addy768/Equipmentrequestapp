@@ -73,7 +73,16 @@ namespace EquipmentRequestApp.Controllers
             {
                 new Equipment { Id = 1, Type = EquipmentType.Laptop, Description = "Dell XPS 13", IsAvailable = true },
                 new Equipment { Id = 2, Type = EquipmentType.Phone, Description = "iPhone 13", IsAvailable = false },
-                new Equipment { Id = 3, Type = EquipmentType.Tablet, Description = "iPad Pro", IsAvailable = true }
+                new Equipment { Id = 3, Type = EquipmentType.Tablet, Description = "iPad Pro", IsAvailable = true },
+                new Equipment { Id = 4, Type = EquipmentType.Laptop, Description = "MacBook Air", IsAvailable = true },
+                new Equipment { Id = 5, Type = EquipmentType.Phone, Description = "Samsung Galaxy S21", IsAvailable = true },
+                new Equipment { Id = 6, Type = EquipmentType.Tablet, Description = "Samsung Galaxy Tab", IsAvailable = false },
+                new Equipment { Id = 7, Type = EquipmentType.Laptop, Description = "HP Spectre x360", IsAvailable = true },
+                new Equipment { Id = 8, Type = EquipmentType.Phone, Description = "Google Pixel 6", IsAvailable = true },
+                new Equipment { Id = 9, Type = EquipmentType.Tablet, Description = "Microsoft Surface Pro", IsAvailable = true },
+                new Equipment { Id = 10, Type = EquipmentType.Laptop, Description = "Lenovo ThinkPad X1", IsAvailable = false }
+
+
             };
         }
     }

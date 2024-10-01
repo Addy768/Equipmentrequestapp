@@ -7,19 +7,25 @@
     <div class="form-group">
         <label asp-for="Name" class="font-weight-bold text-dark">Name</label>
         <input asp-for="Name" class="form-control" />
-        <span asp-validation-for="Name" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
         <label asp-for="Email" class="font-weight-bold text-dark">Email</label>
         <input asp-for="Email" class="form-control" />
-        <span asp-validation-for="Email" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
         <label asp-for="Phone" class="font-weight-bold text-dark">Phone</label>
         <input asp-for="Phone" class="form-control" />
-        <span asp-validation-for="Phone" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Phone" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
@@ -28,25 +34,33 @@
             <option value="Student">Student</option>
             <option value="Professor">Professor</option>
         </select>
-        <span asp-validation-for="Role" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Role" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
         <label asp-for="Equipment" class="font-weight-bold text-dark">Equipment</label>
         <select asp-for="Equipment" asp-items="Html.GetEnumSelectList<EquipmentRequestApp.Models.EquipmentType>()" class="form-control"></select>
-        <span asp-validation-for="Equipment" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Equipment" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
         <label asp-for="RequestDetails" class="font-weight-bold text-dark">Request Details</label>
         <textarea asp-for="RequestDetails" class="form-control" rows="4"></textarea>
-        <span asp-validation-for="RequestDetails" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="RequestDetails" class="text-danger"></span>
+        </div>
     </div>
 
     <div class="form-group">
         <label asp-for="Duration" class="font-weight-bold text-dark">Duration (Days)</label>
         <input asp-for="Duration" type="number" class="form-control" />
-        <span asp-validation-for="Duration" class="text-danger"></span>
+        <div class="error-box">
+            <span asp-validation-for="Duration" class="text-danger"></span>
+        </div>
     </div>
 
     <button type="submit" class="btn btn-primary btn-block">Submit Request</button>
@@ -97,5 +111,18 @@
 
     .p-4 {
         padding: 1.5rem;
+    }
+
+    .error-box {
+        background-color: #f8d7da;
+        color: #721c24;
+        border: 1px solid #f5c6cb;
+        padding: 8px;
+        border-radius: 6px;
+        margin-top: 5px;
+    }
+
+    .text-danger {
+        color: #721c24 !important;
     }
 </style>
